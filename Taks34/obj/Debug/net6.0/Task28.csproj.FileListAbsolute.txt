@@ -1,0 +1,15 @@
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.csproj.AssemblyReference.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.AssemblyInfoInputs.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.AssemblyInfo.cs
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.csproj.CoreCompileInputs.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\bin\Debug\net6.0\Task28.exe
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\bin\Debug\net6.0\Task28.deps.json
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\bin\Debug\net6.0\Task28.runtimeconfig.json
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\bin\Debug\net6.0\Task28.dll
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\bin\Debug\net6.0\Task28.pdb
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.dll
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\refint\Task28.dll
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.pdb
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\Task28.genruntimeconfig.cache
+C:\Users\biyus\OneDrive\Рабочий стол\c projects\my test projects\HW5\Taks34\obj\Debug\net6.0\ref\Task28.dll
